@@ -9,7 +9,7 @@ Code repository for the paper "Reconstructing 3D Human Pose from RGB-D Data with
 
 ## Contents
 
-1. [Code Structure](#cocde-structure)
+1. [Code Structure](#code-structure)
 2. [Install](#install)
 3. [Data](#data)
 4. [Run](#run)

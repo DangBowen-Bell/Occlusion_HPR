@@ -21,7 +21,7 @@ This code is based on [Open3D](http://www.open3d.org/) and have been tested usin
 Before running the code, you need to download the following data:
 
 - [SMPL-X](https://smpl-x.is.tue.mpg.de/) human body model.
-- Dataset you want to visualize.
+- Dataset you want to visualize, such as [PROX](https://prox.is.tue.mpg.de/).
 
 After downloading the data, you will need to modify the `misc/constants.py` to ensure that the data paths are correctly configured.
 
