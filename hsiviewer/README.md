@@ -20,10 +20,10 @@ This code is based on [Open3D](http://www.open3d.org/) and have been tested usin
 
 Before running the code, you need to download the following data:
 
-- [SMPL-X](https://smpl-x.is.tue.mpg.de/) weights to load the human body
-- Dataset you want to visualize
+- [SMPL-X](https://smpl-x.is.tue.mpg.de/) human body model.
+- Dataset you want to visualize.
 
-After downloading the data, you will need to modify the `misc/constants.py` file to ensure that the data paths are correctly configured.
+After downloading the data, you will need to modify the `misc/constants.py` to ensure that the data paths are correctly configured.
 
 
 ## Run
@@ -39,4 +39,4 @@ The viewer and dataloader are seperated for better scalability. If you want to v
 
 ## Reference
 
-I used the [example](https://github.com/isl-org/Open3D/blob/master/examples/python/visualization/vis_gui.py) provided by Open3D as a template to design my own 3D viewer. I would like to express my gratitude to the authors of the example for their great work.
+I used the [example](https://github.com/isl-org/Open3D/blob/master/examples/python/visualization/vis_gui.py) provided by Open3D as a template to design the 3D viewer. I would like to express my gratitude to the authors of the example for their great work.
