@@ -1,5 +1,7 @@
 # 3D Viewer for Human-Scene Interaction Dataset 
 
+![Menu](../images/hsiviewer.png)
+
 Code repository for a 3D viewer to visualize some Human-Scene Interaction datasets.
 
 
