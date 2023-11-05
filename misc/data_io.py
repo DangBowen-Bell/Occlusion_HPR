@@ -278,7 +278,7 @@ class PROXIO(DataIO):
                 fit_root = osp.join(ours_fit_root, fit_type)
         
         fit_dir = osp.join(fit_root, self.recording, 'results')
-        if 'final' in fit_type:
+        if 'ours' in fit_type:
             fit_path = osp.join(fit_dir, frame_id, str(int(stage_idx)) + '00.pkl')
         else:
             fit_path = osp.join(fit_dir, frame_id, '000.pkl')
